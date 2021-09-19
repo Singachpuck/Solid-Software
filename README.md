@@ -2,15 +2,10 @@
 
 Color Change Application
 
-## Getting Started
+## Application tutorial
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ - Tab on the screen to change its background color to a randomly generated new one
+ - You may notice that the message in the middle of the screen is also changed.
+    It's because under the hood there is a list of messages that will appear in turn after each tab on the screen
+ - As the application first loaded you will see a hint at the bottom of the screen which will guide you through :)
+ - Have fun!!!
